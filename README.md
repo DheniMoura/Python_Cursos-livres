@@ -1,2 +1,3 @@
 # Python_Curso-em-Video
- Exercícios do curso básico de Python
+
+Alguns exercícios do curso básico de Python
