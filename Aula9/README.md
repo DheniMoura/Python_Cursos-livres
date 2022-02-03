@@ -1,10 +1,10 @@
 Lista de exercícios relacionados à listas
 
-01- Crie um programa que leia o nome completo de uma pessoa e mostre:
--O nome com todas as letras maiúsculas
--O nome com todas as letras minúsculas
--Quantas letras há ao todo (sem considerar espaços)
--Quantas letras tem o primeiro nome
+01- Crie um programa que leia o nome completo de uma pessoa e mostre:<\n>
+-O nome com todas as letras maiúsculas<\n>
+-O nome com todas as letras minúsculas<\n>
+-Quantas letras há ao todo (sem considerar espaços)<\n>
+-Quantas letras tem o primeiro nome<\n>
 
 02- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 Exemplo:
