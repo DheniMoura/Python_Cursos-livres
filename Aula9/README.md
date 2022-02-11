@@ -1,4 +1,4 @@
-Lista de exercícios relacionados à listas
+Lista de exercícios - tratamento de cadeia de caracteres
 
 01- Crie um programa que leia o nome completo de uma pessoa e mostre:<br>
 -O nome com todas as letras maiúsculas<br>
