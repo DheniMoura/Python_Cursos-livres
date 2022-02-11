@@ -13,7 +13,6 @@ Unidade: 4<br>
 Dezena: 3<br>
 Centena: 8<br>
 Milhar: 1<br>
-Observação: tentar fazer como string e também como numérico<br>
 
 03- Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "Santo"
 
