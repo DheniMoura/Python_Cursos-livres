@@ -18,7 +18,7 @@ Milhar: 1<br>
 
 04- Crie um programa que leia o nome de uma pessoa e diga se ela tem "Silva" no nome.
 
-05- Faça um programa que leira uma frase pelo teclado e mostre:<br>
+05- Faça um programa que leia uma frase pelo teclado e mostre:<br>
 -Quantas vezes aparece a letra "A"<br>
 -Em que posição ela aparece pela primeira vez<br>
 -Em que posição ela aparece pela última vez<br>
