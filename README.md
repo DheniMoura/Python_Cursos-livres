@@ -1,3 +1,4 @@
 # Python_Curso-em-Video
 
-Alguns exercícios do curso básico de Python
+Aqui há alguns exercícios realizados em cursos de Python.
+
