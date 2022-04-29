@@ -1,5 +1,5 @@
 ##Desafio 01 - FAZER
-Escreva um programa para aprovar o empréstimoi bancário para compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar.\n
+Escreva um programa para aprovar o empréstimo bancário para compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar.\n
 Calcule o valor da prestação mensal, sabendo que ela não pode axceder 30% do salário ou então o empréstimo será negado.
 
 ##Desafio 02 - Sistema de numeracao
