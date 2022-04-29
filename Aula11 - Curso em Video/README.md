@@ -2,19 +2,19 @@
 Escreva um programa para aprovar o empréstimoi bancário para compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar.\n
 Calcule o valor da prestação mensal, sabendo que ela não pode axceder 30% do salário ou então o empréstimo será negado.
 
-##Desafio 02
+##Desafio 02 - Sistema de numeracao
 Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
 * 1 para binário
 * 2 para octal
 * 3 para hexadecimal
 
-##Desafio 03 - FAZER
+##Desafio 03 - Comparando números
 Escreva um programa que leia dois números inteiro e compare-os, mostrando na tela uma mensagem:
 * "O primeiro valor é maior"
 * "O segundo valor é maior"
 * "Não tem valor maior, os dois valores são iguais"
 
-##Desafio 04 - FAZER
+##Desafio 04 - Alistamente militar
 Faça um program aque leia o nome de nascimento de um jovem e informe, de acordo com a sua idade:
 * Se ele ainda vai se alistar ao serviço militar;
 * Se é a hora de se alistar;
