@@ -30,7 +30,7 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 (Utilizar dados do sistema)
 
 
-##Desafio 05 - FAZER
+##Desafio 05 - Média
 
 Crie um programa que leia duas notas de um aluno e calcule a sua média, mostrando uma mensagem no final, de acordo com a média atingida:
 * Média < 5,0 == REPROVADO;
