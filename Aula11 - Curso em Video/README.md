@@ -20,7 +20,7 @@ Escreva um programa que leia dois números inteiro e compare-os, mostrando na te
 * "Não tem valor maior, os dois valores são iguais"
 
 
-##Desafio 04 - Alistamente militar
+##Desafio 04 - Alistamento militar
 
 Faça um program aque leia o nome de nascimento de um jovem e informe, de acordo com a sua idade:
 * Se ele ainda vai se alistar ao serviço militar;
@@ -38,7 +38,7 @@ Crie um programa que leia duas notas de um aluno e calcule a sua média, mostran
 * Média > 7,0 == APROVADO;
 
 
-##Desafio 06 - FAZER
+##Desafio 06 - Categoria por idade
 
 A confederação nacional de natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
 * até 9 anos: mirim
@@ -48,12 +48,12 @@ A confederação nacional de natação precisa de um programa que leia o ano de 
 * acima: master
 
 
-##Desafio 07 - FAZER
+##Desafio 07 - Triângulos
 
 Desenvolva um programa que leia o comprimento de três retas e dia ao usuário se elas podem ou não formar um triângulo, diga que o tipo de trângulo que será formado:
 * Equilátero (todos os lados iguais)
 * Isósceles (dois lados iguais)
-* Escalen (todos os lados diferentes)
+* Escaleno (todos os lados diferentes)
 
 
 ##Desafio 08 - FAZER
