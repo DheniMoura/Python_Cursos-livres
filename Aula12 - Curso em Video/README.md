@@ -56,6 +56,6 @@ Desenvolva um programa que leia o comprimento de três retas e dia ao usuário s
 * Escaleno (todos os lados diferentes)
 
 
-##Desafio 08 - FAZER
+##Desafio 08 - Jokenpo
 
 Crie um programa que faça o computador jogar jokenpô com você

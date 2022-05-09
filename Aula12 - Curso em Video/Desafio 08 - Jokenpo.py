@@ -1,6 +1,6 @@
 # Crie um programa que faça o computador jogar jokenpô com você
 from random import randint
-#import time
+from time import sleep
 
 
 def validacao_jokenpo(pergunta):
@@ -21,20 +21,11 @@ def validacao_jokenpo(pergunta):
 
 
 def menu():
-    print("Escolha sua jogada!")
+    print("Suas opções: ")
     print("1 - PEDRA")
     print("2 - PAPEL")
     print("3 - TESOURA")
-    print("0 - ENCERRAR O JOGO")
-
-
-def jogada(num):
-    if num == 1:
-        print("Você jogou PEDRA")
-    elif num == 2:
-        print("Você jogou PAPEL")
-    elif num == 3:
-        print("Você jogou TESOURA")
+    print("0 - Encerrar o jogo")
 
 
 def jokenpo(jogada_pessoa, jogada_maquina):
@@ -97,16 +88,24 @@ cont_j = 0  # contador de total de jogos
 
 while True:
     menu()
-    pessoa = validacao_jokenpo("Sua vez! ")
+    pessoa = validacao_jokenpo("Escolha sua jogada! ")
     if pessoa == 0:
         print("Encerrando...")
         break
+    else:
+        print("JO")
+        sleep(0.5)
+        print("KEN")
+        sleep(0.5)
+        print("PO!!!")
+
     maquina = randint(1, 3)
     jogo = jokenpo(pessoa, maquina)
     pv += jogo['vitória pessoa']
     mv += jogo['vitória máquina']
     emp += jogo['empate']
     cont_j += 1
+    sleep(1.5)
 
 print(
     f"Total de jogos: {cont_j}\nVitórias pessoa: {pv}\nVitórias máquina: {mv}\nEmpates: {emp}")
