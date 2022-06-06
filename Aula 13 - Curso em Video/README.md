@@ -10,11 +10,11 @@ Calcule a soma entre todos os num ímpares que são múltiplos de 3 e que estão
 ## Desafio 04
 Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o
 
-## Desafio 05 - CONFERIR
+## Desafio 05
 Ler um num inteiro e dizer se é primo ou não
 
-06-FAZER
-Ler uma frase e dizer se ela é um palíndromo
+## Desafio 06
+Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços
 
 07-FAZER
 leia 5 números e mostre qual é o maior e o menor

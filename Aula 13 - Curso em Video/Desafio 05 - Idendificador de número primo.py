@@ -12,4 +12,5 @@ for i in range(num, 1, -1):
 if count == 1:
     print(f"O numero {num} é primo")
 else:
-    print(f"O numero {num} não é primo")
+    print(
+        f"O numero {num} não é primo e foi divisivel {count + 1} vezes entre 1 e ele mesmo")

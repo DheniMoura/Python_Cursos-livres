@@ -1,20 +1,20 @@
-Lista de exercícios - tratamento de cadeia de caracteres
+# Lista de exercícios - tratamento de cadeia de caracteres
 
 ## Exercício 01
-Crie um programa que leia o nome completo de uma pessoa e mostre:<br>
--O nome com todas as letras maiúsculas<br>
--O nome com todas as letras minúsculas<br>
--Quantas letras há ao todo (sem considerar espaços)<br>
--Quantas letras tem o primeiro nome<br>
+Crie um programa que leia o nome completo de uma pessoa e mostre:<\br>
+-O nome com todas as letras maiúsculas<\br>
+-O nome com todas as letras minúsculas<\br>
+-Quantas letras há ao todo (sem considerar espaços)<\br>
+-Quantas letras tem o primeiro nome<\br>
 
 ## Exercício 02
 Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
-Exemplo:<br>
-Digite um número: 1834<br>
-Unidade: 4<br>
-Dezena: 3<br>
-Centena: 8<br>
-Milhar: 1<br>
+Exemplo:<\br>
+Digite um número: 1834<\br>
+Unidade: 4<\br>
+Dezena: 3<\br>
+Centena: 8<\br>
+Milhar: 1<\br>
 
 ## Exercício 03
 Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "Santo"
@@ -23,14 +23,14 @@ Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com
 Crie um programa que leia o nome de uma pessoa e diga se ela tem "Silva" no nome.
 
 ## Exercício 05
-Faça um programa que leia uma frase pelo teclado e mostre:<br>
--Quantas vezes aparece a letra "A"<br>
--Em que posição ela aparece pela primeira vez<br>
--Em que posição ela aparece pela última vez<br>
+Faça um programa que leia uma frase pelo teclado e mostre:<\br>
+-Quantas vezes aparece a letra "A"<\br>
+-Em que posição ela aparece pela primeira vez<\br>
+-Em que posição ela aparece pela última vez<\br>
 
 ## Exercício 06
 Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
-Exemplo:<br>
-Nome: "Ana Maria de Souza"<br>
-Primeiro nome: "Ana"<br>
-Último nome: "Souza"<br>
+Exemplo:<\br>
+Nome: "Ana Maria de Souza"<\br>
+Primeiro nome: "Ana"<\br>
+Último nome: "Souza"<\br>
