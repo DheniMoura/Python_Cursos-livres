@@ -1,11 +1,12 @@
 # Lista de exercícios - tratamento de cadeia de caracteres
 
-## Exercício 01
-Crie um programa que leia o nome completo de uma pessoa e mostre:<\br>
+|Item|Descrição|
+|:------:|:------------------------------------------|
+|[Exercício 01] ( inserir link)|Crie um programa que leia o nome completo de uma pessoa e mostre:<\br>
 -O nome com todas as letras maiúsculas<\br>
 -O nome com todas as letras minúsculas<\br>
 -Quantas letras há ao todo (sem considerar espaços)<\br>
--Quantas letras tem o primeiro nome<\br>
+-Quantas letras tem o primeiro nome<\br>|
 
 ## Exercício 02
 Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
