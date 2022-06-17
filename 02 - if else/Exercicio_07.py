@@ -1,3 +1,7 @@
+'''
+Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+'''
+
 # cada um dos lados precisa menor que a soma dos outros dois lados.
 a = float(input('Lado 1 (cm): '))
 b = float(input('Lado 2 (cm): '))
