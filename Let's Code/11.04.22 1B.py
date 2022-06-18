@@ -6,6 +6,7 @@ que receba um valor *n* inteiro e imprima até a n-ésima linha
 1 2 3 
 ...... 
 1 2 3 ... n '''
+
 n = int(input('Digite um número: '))
 a = 0
 for i in range(1,n+1):
