@@ -39,7 +39,7 @@ leia 5 números e mostre qual é o maior e o menor peso lido.<br>
 <br>
 <br>
 
-09-FAZER
+### Desafio 09
 leia o nome, idade e sexo de 4 pessoas. Mostrar:<br>
 * média de idade do grupo
 * o nome do homem mais velho
