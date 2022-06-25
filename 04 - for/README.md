@@ -39,7 +39,7 @@ leia 5 números e mostre qual é o maior e o menor peso lido.<br>
 <br>
 <br>
 
-### Desafio 09
+### Desafio 09 [resolução a](https://github.com/DheniMoura/Python_Cursos-livres/blob/main/04%20-%20for/Desafio%2009%20-%20Analisador%20solu%C3%A7%C3%A3o%2001.py) - [resolução b](https://github.com/DheniMoura/Python_Cursos-livres/blob/main/04%20-%20for/Desafio%2009%20-%20Analisador%20solu%C3%A7%C3%A3o%2002.py)
 leia o nome, idade e sexo de 4 pessoas. Mostrar:<br>
 * média de idade do grupo
 * o nome do homem mais velho
