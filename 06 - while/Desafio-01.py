@@ -5,5 +5,5 @@ sexo = str(input('sexo [M/F]: ')).strip().upper()[0]
 
 while sexo not in 'MF':
     sexo = str(
-        input('Dados invélidos, informe sexo [M/F]: ')).strip().upper()[0]
+        input('Dados inválidos, informe sexo [M/F]: ')).strip().upper()[0]
 print(f'Sexo {sexo} registrado com sucesso')
